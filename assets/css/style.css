@@ -7,6 +7,12 @@
     box-sizing: border-box;
 }
 
+/* General Styles */
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
 /* Header */
 header {
     background-color: #D66C51;
