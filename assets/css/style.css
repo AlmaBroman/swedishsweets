@@ -10,11 +10,16 @@
 /* Header */
 header {
     background-color: #D66C51;
+    width: 100%;
+    display: flex;
+    padding: 20px 0 10px;
+    font-size: large;
 }
 
 h1 {
     font-family: 'League Script', cursive;
     color: #ffffff;
+    padding-left: 40px;
 }
 
 /* Navigation */
