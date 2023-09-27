@@ -24,8 +24,12 @@ h1 {
 
 /* Navigation */
 nav {
-    background-color: #F4B09D;
+    background-color: #D66C51;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
 }
+
 
 /* Main */
 main {
