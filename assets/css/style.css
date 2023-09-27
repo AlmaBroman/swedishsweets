@@ -46,6 +46,15 @@ li {
     list-style: none;
 }
 
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav #active {
+    text-decoration: underline;
+}
+
 /* Main */
 main {
     background-color: #FFE6D8;
