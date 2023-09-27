@@ -12,6 +12,10 @@ header {
     background-color: #D66C51;
 }
 
+h1 {
+    font-family: 'League Script', cursive;
+}
+
 /* Navigation */
 nav {
     background-color: #F4B09D;
