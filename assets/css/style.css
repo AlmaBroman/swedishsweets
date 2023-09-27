@@ -30,6 +30,15 @@ nav {
     justify-content: flex-end;
 }
 
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    padding: 0 10px 5px;
+    list-style: none;
+}
 
 /* Main */
 main {
