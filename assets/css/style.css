@@ -63,4 +63,21 @@ main {
 /* Footer */
 footer {
     background-color: #D66C51;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+footer > ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+footer li {
+    padding: 0 50px;
+}
+
+i {
+    color: #ffffff;
 }
