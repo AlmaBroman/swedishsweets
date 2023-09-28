@@ -29,6 +29,10 @@ a {
     color: #ffffff;
 }
 
+li {
+    list-style: none;
+}
+
 /* Header */
 header {
     background-color: #D66C51;
@@ -46,14 +50,13 @@ nav {
     justify-content: flex-end;
 }
 
-ul {
+nav ul {
     display: flex;
     flex-direction: row;
 }
 
-li {
+nav li {
     padding: 0 10px 5px;
-    list-style: none;
 }
 
 nav a {
@@ -89,6 +92,23 @@ nav #active {
 .welcome-img-box {
     display: flex;
     gap: 40px;
+}
+
+/* About */
+.about {
+    display: flex;
+    
+}
+
+.about img {
+    background-color: #D66C51;
+    width: 35vw;
+    height: 80vh;
+}
+
+.about > div {
+    width: 40vw;
+    height: 80vh;
 }
 
 /* Footer */
