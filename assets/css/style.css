@@ -102,17 +102,18 @@ nav #active {
     width: 100vw;
     color: #666666;
     align-items: center;
+    justify-content: space-around;
 }
 
 .about img {
     background-color: #D66C51;
-    width: 35vw;
-    height: 80vh;
+    width: 23em;
+    height: 28em;
 }
 
 .about > div {
-    width: 40vw;
-    height: 80vh;
+    width: 30em;
+    height: 28em;
 }
 
 /* Footer */
