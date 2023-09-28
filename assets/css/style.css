@@ -130,6 +130,23 @@ main {
     text-align: right;
 }
 
+/* Recipes */
+.recipe-info {
+    background-color: #FFE6D8;
+    width: 28vw;
+}
+
+.recipe-card {
+    display: flex;
+    flex-direction: row;
+}
+
+.recipe-card img {
+    background-color: #D66C51;
+    width: 55vw;
+    height: 50vh;
+}
+
 /* Footer */
 footer {
     background-color: #D66C51;
