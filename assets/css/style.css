@@ -97,7 +97,9 @@ nav #active {
 /* About */
 .about {
     display: flex;
-    
+    background-color: #FFE6D8;
+    height: 100vh;
+    color: #666666;
 }
 
 .about img {
