@@ -65,6 +65,13 @@ main {
     background-color: #F4B09D;
 }
 
+/* Welcome Section */
+.welcome img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
 /* Footer */
 footer {
     background-color: #D66C51;
