@@ -131,14 +131,6 @@ main {
 }
 
 /* Recipes */
-.recipe-info {
-    background-color: #FFE6D8;
-    width: 28vw;
-    border-radius: 2em;
-    color: #666666;
-    padding: 15px;
-}
-
 .recipe-card {
     display: flex;
     flex-direction: row;
@@ -146,6 +138,14 @@ main {
     height: auto;
     padding: 30px;
     gap: 20px;
+}
+
+.recipe-info {
+    background-color: #FFE6D8;
+    width: 28vw;
+    border-radius: 2em;
+    color: #666666;
+    padding: 15px;
 }
 
 .recipe-method {
@@ -156,6 +156,10 @@ main {
     background-color: #D66C51;
     width: 55vw;
     height: 50vh;
+}
+
+.recipe-method li {
+    padding-bottom: 1em;
 }
 
 /* Footer */
