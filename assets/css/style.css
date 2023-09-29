@@ -165,9 +165,19 @@ main {
 /* Sign Up */
 .sign-up {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #FFE6D8;
+    height: 90vh;
+    padding-bottom: 50px;
+}
+
+.sign-up-box{
+    display: flex;
+    flex-direction: column;
     color: #666666;
+    text-align: center;
+    max-width: 400px;
 }
 
 /* Footer */
