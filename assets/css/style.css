@@ -134,11 +134,22 @@ main {
 .recipe-info {
     background-color: #FFE6D8;
     width: 28vw;
+    border-radius: 2em;
+    color: #666666;
+    padding: 15px;
 }
 
 .recipe-card {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    height: auto;
+    padding: 30px;
+    gap: 20px;
+}
+
+.recipe-method {
+    width: 55vw;
 }
 
 .recipe-card img {
