@@ -154,7 +154,7 @@ main {
 .recipe-card img {
     background-color: #D66C51;
     width: 55vw;
-    height: 50vh;
+    height: auto;
 }
 
 .recipe-method li {
