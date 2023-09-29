@@ -162,6 +162,14 @@ main {
     padding-bottom: 1em;
 }
 
+/* Sign Up */
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFE6D8;
+    color: #666666;
+}
+
 /* Footer */
 footer {
     background-color: #D66C51;
