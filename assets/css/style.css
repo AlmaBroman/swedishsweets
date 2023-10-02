@@ -97,6 +97,7 @@ main {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    
 }
 
 .welcome {
@@ -117,6 +118,8 @@ main {
 .welcome-img-box {
     display: flex;
     gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /* About */
