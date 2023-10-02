@@ -131,17 +131,18 @@ main {
     color: #666666;
     align-items: center;
     justify-content: center;
-    gap: 5em;
+    gap: 0.5em 5em;
+    padding: 20px;
 }
 
 .about img {
     background-color: #D66C51;
-    height: 28em;
+    min-width: 300px;
+    max-width: 400px;
 }
 
 .about > div {
     width: 30em;
-    height: 28em;
 }
 
 .about ul {
