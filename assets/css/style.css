@@ -118,6 +118,10 @@ main {
     justify-content: center;
 }
 
+.welcome a:hover {
+    color: #D66C51;
+}
+
 /* About */
 .about {
     display: flex;
