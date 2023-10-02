@@ -187,12 +187,20 @@ main {
     padding-bottom: 50px;
 }
 
-.sign-up-box{
-    display: flex;
-    flex-direction: column;
+.sign-up-container{
+    display: grid;
     color: #666666;
     text-align: center;
     max-width: 400px;
+    gap: 10px;
+}
+
+.sign-up-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: left;
+    justify-self: center;
 }
 
 /* Footer */
