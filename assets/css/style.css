@@ -37,6 +37,14 @@ li {
     list-style: none;
 }
 
+#grey-link {
+    color: #666666;
+}
+
+#grey-link:hover {
+    color: #D66C51;
+}
+
 /* Header */
 header {
     background-color: #D66C51;
@@ -169,14 +177,6 @@ main {
     padding-bottom: 1em;
 }
 
-#video-link {
-    color: #666666;
-}
-
-#video-link:hover {
-    color: #D66C51;
-}
-
 /* Sign Up */
 .sign-up {
     display: flex;
@@ -193,6 +193,7 @@ main {
     text-align: center;
     max-width: 400px;
     gap: 10px;
+    justify-items: center;
 }
 
 .sign-up-box {
@@ -201,6 +202,16 @@ main {
     gap: 10px;
     text-align: left;
     justify-self: center;
+}
+
+input[type=submit] {
+    background-color: #D66C51;
+    color: #ffffff;
+    border-style: solid;
+    border-color: #F4B09D;
+    width: 7em;
+    padding: 5px;
+    border-radius: 8px;
 }
 
 /* Footer */
