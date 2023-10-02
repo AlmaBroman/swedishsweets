@@ -214,6 +214,10 @@ input[type=submit] {
     border-radius: 8px;
 }
 
+input[type=submit]:hover {
+    background-color: #F4B09D;
+}
+
 /* Footer */
 footer {
     background-color: #D66C51;
