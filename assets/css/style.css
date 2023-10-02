@@ -83,10 +83,6 @@ nav a {
     text-decoration: none;
 }
 
-nav #active {
-    text-decoration: underline;
-}
-
 /* Main */
 main {
     margin-top: 86.5px;
