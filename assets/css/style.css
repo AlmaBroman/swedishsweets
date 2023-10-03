@@ -37,11 +37,11 @@ li {
     list-style: none;
 }
 
-#grey-link {
+.grey-link {
     color: #666666;
 }
 
-#grey-link:hover {
+.grey-link:hover {
     color: #D66C51;
 }
 
