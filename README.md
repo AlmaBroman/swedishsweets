@@ -2,34 +2,49 @@
 
 Swedish Sweets is a recipe site that offers simple-to-follow and delicious recipes. The site will be targeted toward people who have an interest in Swedish desserts.
 
-![Responsive mockup]()
+![Responsive mockup](assets/readme-assets/mockup.jpeg)
+
+**Wireframe**
+The wireframe is designed using Balsamiq software. 
+
+![Wireframe img](assets/readme-assets/Swedish-sweets-wireframe.jpg)
 
 ## Existing features
-
-- __Navigation bar__
+![header and nav img](assets/readme-assets/Header-and-nav.png)
+- __Header and Navigation bar__
+  - The header is placed on top of the page to the left so it will be the first thing a user sees when entering the page
+  - When clicking the header the user will automatically be taken to the top of the homepage
   - The navigation bar contains links to the home page, recipe section and sign-up section all links have a hover effect.
   - The navigation bar is fixed to the top of the page for easy navigation.
   - The navigation bar is designed to change depending on device width so the user has no trouble accessing the navigation regardless of what device they are on.
 
+![Welcome section img](assets/readme-assets/Welcome-section.png)
 - __Welcome section__
   - A preview of the recipes, allows user to jump directly down the page to a specific recipe of their choosing.
 
+![About section img](assets/readme-assets/About-section.png)
 - __About section__
   - Tells the user a little bit about the author of the page, their background and values.
   - Give the user info on how to contact site-owner with eventual questions.
 
-- __Recipe page__
+![Recipe section img](assets/readme-assets/Recipe-section.png)
+- __Recipe Section__
   - This page contains the recipes. 
   - A light pink box with the title of the recipes, a short description and the ingredients needed.
   - The recipe images should be the second thing that the user sees. Giving them a visual of how the finished baked good should look.
   - The method section is an easy step-to-step direction on how to prepare the ingredients.
 
-- __Sign Up Page__
+![Sign up img](assets/readme-assets/Sign-up-section.png)
+- __Sign Up Section__
   - This page gives the user a possibility to sign up for a newsletter to get updated when new content is added to the page.
+
+![Footer img](assets/readme-assets/Footer.png)
+- __Footer__
+  - The footer is fixed to the bottom of the page to make it easy for the user to find and follow the page-owner on other platforms.
 
 ## Features left to implement
 
-- dropdown menu for the recipes link in the nav bar to make for easier navigation on the site.
+- Dropdown menu for the recipes link in the nav bar to make for easier navigation on the site.
 - Review section, a section to show comments and reviews of the recipes.
 - More recipes.
 
