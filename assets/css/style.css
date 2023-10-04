@@ -88,7 +88,6 @@ main {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    
 }
 
 .welcome {
@@ -129,6 +128,7 @@ main {
 .about-img {
     min-width: 300px;
     max-width: 400px;
+    border-radius: 15px;
 }
 
 .about-container {
@@ -150,7 +150,7 @@ main {
 .recipe-info {
     background-color: #FFE6D8;
     width: 28vw;
-    border-radius: 2em;
+    border-radius: 15px;
     padding: 15px;
     min-width: 260px;
 }
@@ -164,6 +164,7 @@ main {
     width: 55vw;
     height: auto;
     min-width: 260px;
+    border-radius: 15px;
 }
 
 .recipe-method li {
