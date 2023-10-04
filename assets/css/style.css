@@ -234,3 +234,22 @@ footer li {
 i {
     color: #ffffff;
 }
+
+/* Media query: tablets and smaller (768px and down) */
+@media screen and (max-width: 768px) {
+/* Header */
+header {
+    justify-content: center;
+}
+
+.logo {
+    padding: 0;
+}
+
+/* Nav */
+nav {
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #D66C51;
+}
+}
