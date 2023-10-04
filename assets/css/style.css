@@ -35,6 +35,10 @@ li {
     color: #777777;
 }
 
+.text-align-right {
+    text-align: right;
+}
+
 /* Header */
 header {
     background-color: #D66C51;
@@ -124,21 +128,16 @@ main {
     align-items: center;
     justify-content: center;
     gap: 0.5em 5em;
-    padding: 20px;
+    padding: 40px 20px;
 }
 
-.about img {
-    background-color: #D66C51;
+.about-img {
     min-width: 300px;
     max-width: 400px;
 }
 
-.about > div {
-    width: 30em;
-}
-
-.about ul {
-    text-align: right;
+.about-container {
+    width: 400px;
 }
 
 /* Recipes */
