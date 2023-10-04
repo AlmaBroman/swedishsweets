@@ -84,7 +84,7 @@ main {
 }
 
 /* Welcome Section */
-.welcome img {
+.welcome-img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -99,7 +99,7 @@ main {
     width: 100vw;
 }
 
-.welcome > div {
+.welcome-container {
     padding: 40px 0;
 }
 
