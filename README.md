@@ -101,7 +101,7 @@ The live link can be found here - <https://almabroman.github.io/swedishsweets/>
 - the img for Chocolate Balls recipe is taken from Pixabay.com
 - the imgs for about section and Berry Crumble recipe is taken from Unsplash.com
 
-### Acnowledgements
+### Acknowledgements
 
 - Inspiration was taken from the Code Institute's Coffee House and Love Running projects.
 - Design reference was taken from <https://www.arla.se/recept/> and <https://leilasgeneralstore.com/recept/>
