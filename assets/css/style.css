@@ -55,31 +55,32 @@ header {
 
 /* Navigation */
 nav {
-    background-color: #D66C51;
     width: 100%;
     display: flex;
     justify-content: flex-end;
     position: fixed;
-    top: 60px;
+    top: 35px;
 }
 
-nav ul {
+.nav-list {
     display: flex;
     flex-direction: row;
+    gap: 15px;
+    padding-right: 20px;
 }
 
-nav li {
-    padding: 0 10px 5px;
-}
-
-nav a {
+.nav-link {
     color: #ffffff;
     text-decoration: none;
 }
 
+.nav-link:hover {
+    color: #b0dff2;
+}
+
 /* Main */
 main {
-    margin-top: 86.5px;
+    margin-top: 60px;
 }
 
 /* Welcome Section */
