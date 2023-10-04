@@ -176,8 +176,7 @@ main {
     justify-content: center;
     align-items: center;
     background-color: #FFE6D8;
-    height: 90vh;
-    padding-bottom: 50px;
+    padding: 40px 20px 90px;
 }
 
 .sign-up-container{
