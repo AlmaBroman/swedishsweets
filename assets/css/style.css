@@ -27,10 +27,6 @@ li {
     list-style: none;
 }
 
-.grey-link {
-    color: #303030;
-}
-
 .grey-link:hover {
     color: #777777;
 }
@@ -124,7 +120,6 @@ main {
     flex-wrap: wrap;
     background-color: #FFE6D8;
     width: 100vw;
-    color: #303030;
     align-items: center;
     justify-content: center;
     gap: 0.5em 5em;
@@ -156,7 +151,6 @@ main {
     background-color: #FFE6D8;
     width: 28vw;
     border-radius: 2em;
-    color: #303030;
     padding: 15px;
     min-width: 260px;
 }
@@ -166,8 +160,7 @@ main {
     min-width: 260px;
 }
 
-.recipe-card img {
-    background-color: #D66C51;
+.recipe-card-img {
     width: 55vw;
     height: auto;
     min-width: 260px;
@@ -189,7 +182,6 @@ main {
 
 .sign-up-container{
     display: grid;
-    color: #303030;
     text-align: center;
     max-width: 400px;
     gap: 10px;
