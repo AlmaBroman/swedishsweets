@@ -11,14 +11,8 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 400;
-    color: #ffffff;
+    color: #303030;
     background-color: #F4B09D;
-}
-
-h1 {
-    font-family: 'League Script', cursive;
-    color: #ffffff;
-    padding-left: 40px;
 }
 
 h2, h3 {
@@ -26,11 +20,7 @@ h2, h3 {
 }
 
 a {
-    color: #ffffff;
-}
-
-a:hover {
-    color: #F4B09D;
+    color: #303030;
 }
 
 li {
@@ -38,11 +28,11 @@ li {
 }
 
 .grey-link {
-    color: #666666;
+    color: #303030;
 }
 
 .grey-link:hover {
-    color: #D66C51;
+    color: #777777;
 }
 
 /* Header */
@@ -56,7 +46,10 @@ header {
     top: 0;
 }
 
-header a {
+.logo {
+    font-family: 'League Script', cursive;
+    color: #ffffff;
+    padding-left: 40px;
     text-decoration: none;
 }
 
@@ -80,6 +73,7 @@ nav li {
 }
 
 nav a {
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -118,9 +112,6 @@ main {
     justify-content: center;
 }
 
-.welcome a:hover {
-    color: #D66C51;
-}
 
 /* About */
 .about {
@@ -128,7 +119,7 @@ main {
     flex-wrap: wrap;
     background-color: #FFE6D8;
     width: 100vw;
-    color: #666666;
+    color: #303030;
     align-items: center;
     justify-content: center;
     gap: 0.5em 5em;
@@ -164,7 +155,7 @@ main {
     background-color: #FFE6D8;
     width: 28vw;
     border-radius: 2em;
-    color: #666666;
+    color: #303030;
     padding: 15px;
     min-width: 260px;
 }
@@ -197,7 +188,7 @@ main {
 
 .sign-up-container{
     display: grid;
-    color: #666666;
+    color: #303030;
     text-align: center;
     max-width: 400px;
     gap: 10px;
